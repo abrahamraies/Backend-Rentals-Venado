@@ -1,4 +1,4 @@
-package com.proyecto.proyecto_alquiler_vehiculos.exceptions;
+package com.proyecto.RentalsVenado.exceptions;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;

@@ -1,9 +1,9 @@
-package com.proyecto.proyecto_alquiler_vehiculos.controller;
+package com.proyecto.RentalsVenado.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
-import com.proyecto.proyecto_alquiler_vehiculos.Models.RegistroAlquiler;
-import com.proyecto.proyecto_alquiler_vehiculos.Repository.AlquilerRepository;
+import com.proyecto.RentalsVenado.Models.RegistroAlquiler;
+import com.proyecto.RentalsVenado.Repository.AlquilerRepository;
 
 @RestController
 @CrossOrigin("https://rentals-venado.web.app")

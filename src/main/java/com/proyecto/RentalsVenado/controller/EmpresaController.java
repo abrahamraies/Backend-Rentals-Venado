@@ -1,10 +1,10 @@
-package com.proyecto.proyecto_alquiler_vehiculos.controller;
+package com.proyecto.RentalsVenado.controller;
 
 import java.util.List;
 
-import com.proyecto.proyecto_alquiler_vehiculos.Repository.*;
-import com.proyecto.proyecto_alquiler_vehiculos.exceptions.ResourceNotFoundExceptions;
-import com.proyecto.proyecto_alquiler_vehiculos.Models.*;
+import com.proyecto.RentalsVenado.Repository.*;
+import com.proyecto.RentalsVenado.exceptions.ResourceNotFoundExceptions;
+import com.proyecto.RentalsVenado.Models.*;
 
 
 import org.springframework.http.*;

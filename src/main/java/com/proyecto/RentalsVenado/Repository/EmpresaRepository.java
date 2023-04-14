@@ -1,9 +1,9 @@
-package com.proyecto.proyecto_alquiler_vehiculos.Repository;
+package com.proyecto.RentalsVenado.Repository;
 
 import java.util.Optional;
 import org.springframework.data.jpa.repository.JpaRepository;
 
-import com.proyecto.proyecto_alquiler_vehiculos.Models.Empresa;
+import com.proyecto.RentalsVenado.Models.Empresa;
 
 public interface EmpresaRepository extends JpaRepository<Empresa,Long>{
     

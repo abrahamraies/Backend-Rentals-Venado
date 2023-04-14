@@ -1,4 +1,4 @@
-package com.proyecto.proyecto_alquiler_vehiculos.Models;
+package com.proyecto.RentalsVenado.Models;
 
 import java.sql.Date;
 

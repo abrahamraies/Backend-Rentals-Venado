@@ -1,4 +1,4 @@
-package com.proyecto.proyecto_alquiler_vehiculos.controller;
+package com.proyecto.RentalsVenado.controller;
 
 import java.util.List;
 import java.util.stream.Collectors;
@@ -19,11 +19,11 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.multipart.MultipartFile;
 import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 
-import com.proyecto.proyecto_alquiler_vehiculos.exceptions.ResourceNotFoundExceptions;
-import com.proyecto.proyecto_alquiler_vehiculos.Models.*;
+import com.proyecto.RentalsVenado.exceptions.ResourceNotFoundExceptions;
+import com.proyecto.RentalsVenado.Models.*;
 
-import com.proyecto.proyecto_alquiler_vehiculos.Repository.*;
-import com.proyecto.proyecto_alquiler_vehiculos.service.ImagenService;
+import com.proyecto.RentalsVenado.Repository.*;
+import com.proyecto.RentalsVenado.service.ImagenService;
 
 
 @RestController

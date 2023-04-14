@@ -1,4 +1,4 @@
-package com.proyecto.proyecto_alquiler_vehiculos.service;
+package com.proyecto.RentalsVenado.service;
 
 import java.io.IOException;
 import java.util.stream.Stream;
@@ -8,8 +8,8 @@ import org.springframework.stereotype.Service;
 import org.springframework.util.StringUtils;
 import org.springframework.web.multipart.MultipartFile;
 
-import com.proyecto.proyecto_alquiler_vehiculos.Models.Imagen;
-import com.proyecto.proyecto_alquiler_vehiculos.Repository.ImageRepository;
+import com.proyecto.RentalsVenado.Models.Imagen;
+import com.proyecto.RentalsVenado.Repository.ImageRepository;
 
 @Service
 public class ImagenService {

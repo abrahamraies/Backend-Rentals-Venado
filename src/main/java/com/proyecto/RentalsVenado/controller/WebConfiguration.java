@@ -1,4 +1,4 @@
-package com.proyecto.proyecto_alquiler_vehiculos.controller;
+package com.proyecto.RentalsVenado.controller;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.CorsRegistry;

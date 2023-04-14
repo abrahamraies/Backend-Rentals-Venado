@@ -1,4 +1,4 @@
-package com.proyecto.proyecto_alquiler_vehiculos;
+package com.proyecto.RentalsVenado;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

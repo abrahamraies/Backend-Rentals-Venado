@@ -1,4 +1,4 @@
-package com.proyecto.proyecto_alquiler_vehiculos.Models;
+package com.proyecto.RentalsVenado.Models;
 
 import javax.persistence.*;
 import org.hibernate.annotations.GenericGenerator;
